@@ -6,6 +6,15 @@
 
 ChronoCraft is an application designed to showcase and provide detailed information about various artifacts.
 
+## Tecnology 
+
+- **ReactJs**
+- **NodeJs**
+- **ExpressJs**
+- **MongoDB**
+- **React-Router-Dom**
+
+
 ## Key Features
 
 - User authentication with JWT
