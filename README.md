@@ -33,3 +33,9 @@ ChronoCraft is an application designed to showcase and provide detailed informat
 - `react-helmet-async`: ^2.0.5
 - `react-router-dom`: ^7.1.0
 - `swiper`: ^11.1.15
+
+## Install Local Machine
+
+- git clone https://github.com/eftakhar-491/Artifacts-B-10-A-11-client.git
+- npm i
+- npm run dev
