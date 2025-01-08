@@ -1,6 +1,6 @@
 # ChronoCraft
 
-<img src="pg.JPG"/>
+<img src="i2.JPG"/>
 - live URL https://chrono-craft-art.web.app/
 
 ## Purpose
